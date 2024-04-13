@@ -1,0 +1,22 @@
+body {
+    background-image: url(file:///C:/Users/Aloe/Desktop/letausui%20gus/img/pngegg7.png);
+    background-repeat: no-repeat;
+}
+#goose {
+    width: 120px;
+    position: absolute;
+    top: 340px;
+    margin-left: 300px;
+}
+#kolonna {
+    width: 300px;
+    position: absolute;
+    bottom: 0px;
+    right: 810px;
+}
+h2 {
+    font-size: 55px;
+    margin-left: 45%;
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
